@@ -1,6 +1,3 @@
-Escrita
-Aulimentador
-
 Projeto de alimentador automático para pets utilizando ESP32.
 
 A ideia do projeto foi criar um sistema simples onde é possível definir a quantidade de ração que será liberada remotamente através de um aplicativo. A comunicação entre o app e o dispositivo é feita via MQTT.
